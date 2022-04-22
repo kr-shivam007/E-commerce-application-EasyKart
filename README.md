@@ -1,0 +1,2 @@
+# E-commerce-application-EasyKart
+In this project, develop an e-commerce application using python Flask and sqlite database. Also Functional testing of your  application is very important to make sure that the applications fulfil the acceptance criteria by the product owners. Test cases for this app covering general UI test cases, product category based viewing , product buy flow including add to cart test cases, and product entry and management test cases, user registration test cases , user sign in , order history , order return etc.
